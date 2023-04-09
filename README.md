@@ -8,7 +8,7 @@ Enable community-repository:
 ```
 sudo luet install repository/mocaccino-community-stable
 ```
-Install these pacakges:
+Install these packages:
 ```
 sudo luet install layers/hyprland apps/kitty fonts/fontawesome
 ```
